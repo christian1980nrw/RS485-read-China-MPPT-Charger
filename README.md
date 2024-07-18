@@ -4,7 +4,7 @@
 
 
   <p align="center">
-      <img width="50%" src="https://github.com/christian1980nrw/Venus-OS-China-MPPT-Charger-driver/blob/main/product-picture.jpg"> 
+      <img width="50%" src="https://github.com/christian1980nrw/RS485-read-China-MPPT-Charger/blob/main/product-picture.jpg"> 
   </p>
 
   <h2>Overview</h2>
