@@ -1,4 +1,4 @@
-  <h1>RS485 read China MPPT Solar Controller Charger and use it in Victron Venus OS</h1>
+  <h1>RS485 read China MPPT Solar Controller Charger</h1>
 
   <p>This project interfaces with a China MPPT Solar Controller Charger using RS485 communication.</p>
 
